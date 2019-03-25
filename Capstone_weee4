@@ -1,0 +1,12 @@
+The Best Restaurant available.
+
+
+With this project we intend to group restaurants fron Copacabana and compare with restaurants from Ipanema
+
+With the modeling of these groups we intend to verify which would be the nearest restaurants indicated
+for individuals from that neigbohoods.
+
+
+so we'll need to use:
+Clustering algorithms based on the users' information to determine which restaurant would be the indicated.
+And routing algorithms to choose from the closest restaurant.
